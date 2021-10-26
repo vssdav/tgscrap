@@ -20,8 +20,8 @@ def banner():
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	
 	           Version : 1.01
-	{re}Subscribe Termux Professor on Youtube
-	{cy}www.youtube.com/c/TermuxProfessorYT
+	{re}Join Termux && Linux | Decent on Telegram
+	{cy}t.me/Random_iDn
 	""")
 banner()
 print(gr+"[+] Installing requierments ...")
