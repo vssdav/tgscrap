@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Version-1.01-brightgreen"></p>
 <p align="center">
-  <a href="https://github.com/termuxprofessor">
+  <a href="https://github.com/Correctl">
     <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
   </a>
   <a href="https://github.com/termuxprofessor/Telegram-Scraper-Adder">
@@ -50,17 +50,17 @@
 
 `$ python adder.py`
 
-## • Watch Video Tutorial From Below
-* https://youtu.be/hNztfzMMPOc
+## • U can Join Group Telegram
+* https://t.me/Random_iDn
 ---
 
 <p align="center">
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/c/TermuxProfessorYT">
+  <a href="https://t.me/Random_iDn">
     <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
   </a>
-  <a href="https://www.instagram.com/termuxprofessor/">
+  <a href="https://t.me/Correctl">
     <img src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" width="40" height="40">
 </p>
