@@ -34,9 +34,9 @@
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/TeleGram-Scraper-Adder`
+`$ git clone https://github.com/Correctl/tgscrap`
 
-`$ cd Telegram-Scraper-Adder`
+`$ cd tgscrap`
 
 * Install requierments & Setup Configuration File. ( apiID, apiHash )
 
